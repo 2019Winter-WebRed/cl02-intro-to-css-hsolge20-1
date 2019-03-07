@@ -1,0 +1,38 @@
+/*
+* Hannah Solge 
+* Due Date
+* Project Name and Description
+*/
+
+/* The university selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    width: 80%;
+    margin: auto;
+    background-color:lavenderblush;
+    font-family: fantasy
+}
+h1 {
+    background-color: lightpink; /*color for background */ 
+    color: white; /*color of text */
+}
+
+p { /* type selector for ALL paragraphs */
+    color: deeppink
+}
+
+#maroonText { /* use an id to change text to maroon */
+    color: maroon
+    
+}
+
+.lightcoralText { /* use a class to change text to lightcoral in different kinds of elements */
+    color: lightcoral
+    
+}
